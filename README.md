@@ -1,8 +1,8 @@
 # Mariakani.github.io
 Repo for my personal websites; Though, I used Bootstraps template, I did most of the hmtl pages design and layout.
 Through designing this simple portfolio, I had hands on;
-#html, 
-#css fundamentals
+# html
+# css fundamentals
 I also learned a great deal self-disciplined become more self_oriented learner since I took initiative.
 I also learned problem-solving as well as creative thinking through completion of the simple portfolio projects
 
